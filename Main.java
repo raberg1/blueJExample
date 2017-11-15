@@ -1,6 +1,8 @@
 
 /**
  * Assignment 6 - Merge Arrays
+ * This program is from Edhesive and being used  
+ * with gitHub
  *
  * @Robert Berg 
  * @11/8/17
